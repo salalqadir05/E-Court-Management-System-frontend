@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&family=Roboto+Condensed:wght@800&display=swap');
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+
+}
+h1,h2,h3,h4,button{
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+}
