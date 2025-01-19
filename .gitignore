@@ -1,26 +1,2 @@
-# Node.js dependencies
+# Ignore node_modules directory
 node_modules/
-
-# Environment variables
-.env
-
-# Optional npm cache directory
-.npm
-
-# Optional REPL history
-.node_repl_history
-
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# OS-specific files
-.DS_Store
-Thumbs.db
-
-# Other project-specific files
-dist/
-build/
