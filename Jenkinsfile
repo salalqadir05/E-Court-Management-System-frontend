@@ -1,12 +1,15 @@
-pipeline{
+pipeline {
     agent any
-    stages{
-    stage('Installing Dependices')
-    {
-        steps {
-                echo 'Building project...'
-                sh 'npm run build'
-              }
-    }
+    stages {
+        stage('Build') {
+            steps {
+                echo 'Building...'
+            }
+        }
+        stage('Test') {
+            steps {
+                echo 'Testing...'
+            }
+        }
     }
 }
