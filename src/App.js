@@ -20,6 +20,7 @@ import Mainlawyer from "./Layout/lawyer/Mainlawyer";
 import ReadArticles from "./Layout/lawyer/ReadArticles";
 import WriteArticle from "./Layout/lawyer/writeArticle"
 import Schedule from "./Layout/lawyer/Schedule";
+
 import Listlawyerinlawyer from "./Layout/lawyer/Listlawyerinlawyer";
 import DocumentsofLawyers from "./Layout/lawyer/DocumentsofLawyers";
 import Settingslawyer from "./Layout/lawyer/Settingslawyer";
